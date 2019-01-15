@@ -1,1 +1,1 @@
-# Parallax_bootstrap_project1
+# project1_plx_btsrp
